@@ -1,8 +1,16 @@
+// File: src/components/AlertCard.jsx
 import React from "react";
+import { motion } from "framer-motion";
 
 const AlertCard = ({ resource, region, cost, co2, recommendation, onAction }) => {
   return (
-    <div className="bg-white shadow-md rounded-xl p-4 mb-4 border-l-4 border-red-400">
+    <motion.div
+      initial={{ opacity: 0, x: 50 }}
+      animate={{ opacity: 1, x: 0 }}
+      exit={{ opacity: 0, x: -50 }}
+      layout
+      className="bg-white shadow-md rounded-xl p-4 mb-4 border-l-4 border-red-400"
+    >
       <h2 className="text-xl font-semibold">{resource}</h2>
       <p className="text-gray-700">Region: {region}</p>
       <p className="text-gray-700">Estimated Monthly Cost: ${cost}</p>
@@ -21,8 +29,9 @@ const AlertCard = ({ resource, region, cost, co2, recommendation, onAction }) =>
           Ignore
         </button>
       </div>
-    </div>
+    </motion.div>
   );
 };
 
-export default AlertCard
+export default AlertCard;
+
