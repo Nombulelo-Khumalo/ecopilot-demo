@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1748480962,,"wq"
+|2,0,1748481248,,"wq"
 :q
 |2,0,1748479675,,"q"
 :x
@@ -29,36 +29,84 @@
 # Registers:
 
 # File marks:
-'0  36  0  ~/webpack.config.js
-|4,48,36,0,1748480962,"~/webpack.config.js"
-'1  8  2  ~/package.json
-|4,49,8,2,1748480894,"~/package.json"
-'2  4  0  ~/.babelrc
-|4,50,4,0,1748480771,"~/.babelrc"
-'3  53  17  ~/src/App.jsx
-|4,51,53,17,1748479861,"~/src/App.jsx"
-'4  28  23  ~/src/components/AlertCard.jsx
-|4,52,28,23,1748479775,"~/src/components/AlertCard.jsx"
-'5  1  0  ~/src/data/AlertCard.jsx
-|4,53,1,0,1748479675,"~/src/data/AlertCard.jsx"
-'6  18  0  ~/src/data/awsMockData.json
-|4,54,18,0,1748479561,"~/src/data/awsMockData.json"
-'7  22  23  ~/src/components/Dashboard.jsx
-|4,55,22,23,1748479419,"~/src/components/Dashboard.jsx"
-'8  1  0  ~/src/components/add
-|4,56,1,0,1748479214,"~/src/components/add"
-'9  14  22  ~/src/components/BotPanel.jsx
-|4,57,14,22,1748479176,"~/src/components/BotPanel.jsx"
+'0  7  0  ~/src/index.jsx
+|4,48,7,0,1748481248,"~/src/index.jsx"
+'1  11  0  ~/public/index.html
+|4,49,11,0,1748481203,"~/public/index.html"
+'2  36  0  ~/webpack.config.js
+|4,50,36,0,1748480962,"~/webpack.config.js"
+'3  8  2  ~/package.json
+|4,51,8,2,1748480894,"~/package.json"
+'4  4  0  ~/.babelrc
+|4,52,4,0,1748480771,"~/.babelrc"
+'5  53  17  ~/src/App.jsx
+|4,53,53,17,1748479861,"~/src/App.jsx"
+'6  28  23  ~/src/components/AlertCard.jsx
+|4,54,28,23,1748479775,"~/src/components/AlertCard.jsx"
+'7  1  0  ~/src/data/AlertCard.jsx
+|4,55,1,0,1748479675,"~/src/data/AlertCard.jsx"
+'8  18  0  ~/src/data/awsMockData.json
+|4,56,18,0,1748479561,"~/src/data/awsMockData.json"
+'9  22  23  ~/src/components/Dashboard.jsx
+|4,57,22,23,1748479419,"~/src/components/Dashboard.jsx"
 
 # Jumplist (newest first):
+-'  7  0  ~/src/index.jsx
+|4,39,7,0,1748481248,"~/src/index.jsx"
+-'  1  0  ~/src/index.jsx
+|4,39,1,0,1748481235,"~/src/index.jsx"
+-'  11  0  ~/public/index.html
+|4,39,11,0,1748481203,"~/public/index.html"
+-'  11  0  ~/public/index.html
+|4,39,11,0,1748481203,"~/public/index.html"
+-'  1  0  ~/public/index.html
+|4,39,1,0,1748481177,"~/public/index.html"
+-'  1  0  ~/public/index.html
+|4,39,1,0,1748481177,"~/public/index.html"
 -'  36  0  ~/webpack.config.js
 |4,39,36,0,1748480962,"~/webpack.config.js"
+-'  36  0  ~/webpack.config.js
+|4,39,36,0,1748480962,"~/webpack.config.js"
+-'  36  0  ~/webpack.config.js
+|4,39,36,0,1748480962,"~/webpack.config.js"
+-'  36  0  ~/webpack.config.js
+|4,39,36,0,1748480962,"~/webpack.config.js"
+-'  1  0  ~/webpack.config.js
+|4,39,1,0,1748480951,"~/webpack.config.js"
+-'  1  0  ~/webpack.config.js
+|4,39,1,0,1748480951,"~/webpack.config.js"
+-'  1  0  ~/webpack.config.js
+|4,39,1,0,1748480951,"~/webpack.config.js"
 -'  1  0  ~/webpack.config.js
 |4,39,1,0,1748480951,"~/webpack.config.js"
 -'  8  2  ~/package.json
 |4,39,8,2,1748480894,"~/package.json"
 -'  8  2  ~/package.json
 |4,39,8,2,1748480894,"~/package.json"
+-'  8  2  ~/package.json
+|4,39,8,2,1748480894,"~/package.json"
+-'  8  2  ~/package.json
+|4,39,8,2,1748480894,"~/package.json"
+-'  8  2  ~/package.json
+|4,39,8,2,1748480894,"~/package.json"
+-'  8  2  ~/package.json
+|4,39,8,2,1748480894,"~/package.json"
+-'  8  2  ~/package.json
+|4,39,8,2,1748480894,"~/package.json"
+-'  8  2  ~/package.json
+|4,39,8,2,1748480894,"~/package.json"
+-'  1  0  ~/package.json
+|4,39,1,0,1748480807,"~/package.json"
+-'  1  0  ~/package.json
+|4,39,1,0,1748480807,"~/package.json"
+-'  1  0  ~/package.json
+|4,39,1,0,1748480807,"~/package.json"
+-'  1  0  ~/package.json
+|4,39,1,0,1748480807,"~/package.json"
+-'  1  0  ~/package.json
+|4,39,1,0,1748480807,"~/package.json"
+-'  1  0  ~/package.json
+|4,39,1,0,1748480807,"~/package.json"
 -'  1  0  ~/package.json
 |4,39,1,0,1748480807,"~/package.json"
 -'  1  0  ~/package.json
@@ -71,6 +119,54 @@
 |4,39,4,0,1748480771,"~/.babelrc"
 -'  4  0  ~/.babelrc
 |4,39,4,0,1748480771,"~/.babelrc"
+-'  4  0  ~/.babelrc
+|4,39,4,0,1748480771,"~/.babelrc"
+-'  4  0  ~/.babelrc
+|4,39,4,0,1748480771,"~/.babelrc"
+-'  4  0  ~/.babelrc
+|4,39,4,0,1748480771,"~/.babelrc"
+-'  4  0  ~/.babelrc
+|4,39,4,0,1748480771,"~/.babelrc"
+-'  4  0  ~/.babelrc
+|4,39,4,0,1748480771,"~/.babelrc"
+-'  4  0  ~/.babelrc
+|4,39,4,0,1748480771,"~/.babelrc"
+-'  4  0  ~/.babelrc
+|4,39,4,0,1748480771,"~/.babelrc"
+-'  4  0  ~/.babelrc
+|4,39,4,0,1748480771,"~/.babelrc"
+-'  4  0  ~/.babelrc
+|4,39,4,0,1748480771,"~/.babelrc"
+-'  4  0  ~/.babelrc
+|4,39,4,0,1748480771,"~/.babelrc"
+-'  4  0  ~/.babelrc
+|4,39,4,0,1748480771,"~/.babelrc"
+-'  4  0  ~/.babelrc
+|4,39,4,0,1748480771,"~/.babelrc"
+-'  1  0  ~/.babelrc
+|4,39,1,0,1748480755,"~/.babelrc"
+-'  1  0  ~/.babelrc
+|4,39,1,0,1748480755,"~/.babelrc"
+-'  1  0  ~/.babelrc
+|4,39,1,0,1748480755,"~/.babelrc"
+-'  1  0  ~/.babelrc
+|4,39,1,0,1748480755,"~/.babelrc"
+-'  1  0  ~/.babelrc
+|4,39,1,0,1748480755,"~/.babelrc"
+-'  1  0  ~/.babelrc
+|4,39,1,0,1748480755,"~/.babelrc"
+-'  1  0  ~/.babelrc
+|4,39,1,0,1748480755,"~/.babelrc"
+-'  1  0  ~/.babelrc
+|4,39,1,0,1748480755,"~/.babelrc"
+-'  1  0  ~/.babelrc
+|4,39,1,0,1748480755,"~/.babelrc"
+-'  1  0  ~/.babelrc
+|4,39,1,0,1748480755,"~/.babelrc"
+-'  1  0  ~/.babelrc
+|4,39,1,0,1748480755,"~/.babelrc"
+-'  1  0  ~/.babelrc
+|4,39,1,0,1748480755,"~/.babelrc"
 -'  1  0  ~/.babelrc
 |4,39,1,0,1748480755,"~/.babelrc"
 -'  1  0  ~/.babelrc
@@ -95,6 +191,54 @@
 |4,39,53,17,1748479861,"~/src/App.jsx"
 -'  53  17  ~/src/App.jsx
 |4,39,53,17,1748479861,"~/src/App.jsx"
+-'  53  17  ~/src/App.jsx
+|4,39,53,17,1748479861,"~/src/App.jsx"
+-'  53  17  ~/src/App.jsx
+|4,39,53,17,1748479861,"~/src/App.jsx"
+-'  53  17  ~/src/App.jsx
+|4,39,53,17,1748479861,"~/src/App.jsx"
+-'  53  17  ~/src/App.jsx
+|4,39,53,17,1748479861,"~/src/App.jsx"
+-'  53  17  ~/src/App.jsx
+|4,39,53,17,1748479861,"~/src/App.jsx"
+-'  53  17  ~/src/App.jsx
+|4,39,53,17,1748479861,"~/src/App.jsx"
+-'  53  17  ~/src/App.jsx
+|4,39,53,17,1748479861,"~/src/App.jsx"
+-'  53  17  ~/src/App.jsx
+|4,39,53,17,1748479861,"~/src/App.jsx"
+-'  53  17  ~/src/App.jsx
+|4,39,53,17,1748479861,"~/src/App.jsx"
+-'  53  17  ~/src/App.jsx
+|4,39,53,17,1748479861,"~/src/App.jsx"
+-'  53  17  ~/src/App.jsx
+|4,39,53,17,1748479861,"~/src/App.jsx"
+-'  53  17  ~/src/App.jsx
+|4,39,53,17,1748479861,"~/src/App.jsx"
+-'  53  17  ~/src/App.jsx
+|4,39,53,17,1748479861,"~/src/App.jsx"
+-'  53  17  ~/src/App.jsx
+|4,39,53,17,1748479861,"~/src/App.jsx"
+-'  53  17  ~/src/App.jsx
+|4,39,53,17,1748479861,"~/src/App.jsx"
+-'  53  17  ~/src/App.jsx
+|4,39,53,17,1748479861,"~/src/App.jsx"
+-'  53  17  ~/src/App.jsx
+|4,39,53,17,1748479861,"~/src/App.jsx"
+-'  53  17  ~/src/App.jsx
+|4,39,53,17,1748479861,"~/src/App.jsx"
+-'  53  17  ~/src/App.jsx
+|4,39,53,17,1748479861,"~/src/App.jsx"
+-'  53  17  ~/src/App.jsx
+|4,39,53,17,1748479861,"~/src/App.jsx"
+-'  53  17  ~/src/App.jsx
+|4,39,53,17,1748479861,"~/src/App.jsx"
+-'  53  17  ~/src/App.jsx
+|4,39,53,17,1748479861,"~/src/App.jsx"
+-'  53  17  ~/src/App.jsx
+|4,39,53,17,1748479861,"~/src/App.jsx"
+-'  53  17  ~/src/App.jsx
+|4,39,53,17,1748479861,"~/src/App.jsx"
 -'  1  0  ~/src/App.jsx
 |4,39,1,0,1748479809,"~/src/App.jsx"
 -'  1  0  ~/src/App.jsx
@@ -107,152 +251,22 @@
 |4,39,1,0,1748479809,"~/src/App.jsx"
 -'  1  0  ~/src/App.jsx
 |4,39,1,0,1748479809,"~/src/App.jsx"
--'  1  0  ~/src/App.jsx
-|4,39,1,0,1748479809,"~/src/App.jsx"
--'  1  0  ~/src/App.jsx
-|4,39,1,0,1748479809,"~/src/App.jsx"
--'  28  23  ~/src/components/AlertCard.jsx
-|4,39,28,23,1748479775,"~/src/components/AlertCard.jsx"
--'  28  23  ~/src/components/AlertCard.jsx
-|4,39,28,23,1748479775,"~/src/components/AlertCard.jsx"
--'  28  23  ~/src/components/AlertCard.jsx
-|4,39,28,23,1748479775,"~/src/components/AlertCard.jsx"
--'  28  23  ~/src/components/AlertCard.jsx
-|4,39,28,23,1748479775,"~/src/components/AlertCard.jsx"
--'  28  23  ~/src/components/AlertCard.jsx
-|4,39,28,23,1748479775,"~/src/components/AlertCard.jsx"
--'  28  23  ~/src/components/AlertCard.jsx
-|4,39,28,23,1748479775,"~/src/components/AlertCard.jsx"
--'  28  23  ~/src/components/AlertCard.jsx
-|4,39,28,23,1748479775,"~/src/components/AlertCard.jsx"
--'  28  23  ~/src/components/AlertCard.jsx
-|4,39,28,23,1748479775,"~/src/components/AlertCard.jsx"
--'  28  23  ~/src/components/AlertCard.jsx
-|4,39,28,23,1748479775,"~/src/components/AlertCard.jsx"
--'  28  23  ~/src/components/AlertCard.jsx
-|4,39,28,23,1748479775,"~/src/components/AlertCard.jsx"
--'  28  23  ~/src/components/AlertCard.jsx
-|4,39,28,23,1748479775,"~/src/components/AlertCard.jsx"
--'  28  23  ~/src/components/AlertCard.jsx
-|4,39,28,23,1748479775,"~/src/components/AlertCard.jsx"
--'  28  23  ~/src/components/AlertCard.jsx
-|4,39,28,23,1748479775,"~/src/components/AlertCard.jsx"
--'  28  23  ~/src/components/AlertCard.jsx
-|4,39,28,23,1748479775,"~/src/components/AlertCard.jsx"
--'  28  23  ~/src/components/AlertCard.jsx
-|4,39,28,23,1748479775,"~/src/components/AlertCard.jsx"
--'  28  23  ~/src/components/AlertCard.jsx
-|4,39,28,23,1748479775,"~/src/components/AlertCard.jsx"
--'  1  111  ~/src/components/AlertCard.jsx
-|4,39,1,111,1748479727,"~/src/components/AlertCard.jsx"
--'  1  111  ~/src/components/AlertCard.jsx
-|4,39,1,111,1748479727,"~/src/components/AlertCard.jsx"
--'  1  111  ~/src/components/AlertCard.jsx
-|4,39,1,111,1748479727,"~/src/components/AlertCard.jsx"
--'  1  111  ~/src/components/AlertCard.jsx
-|4,39,1,111,1748479727,"~/src/components/AlertCard.jsx"
--'  1  111  ~/src/components/AlertCard.jsx
-|4,39,1,111,1748479727,"~/src/components/AlertCard.jsx"
--'  1  111  ~/src/components/AlertCard.jsx
-|4,39,1,111,1748479727,"~/src/components/AlertCard.jsx"
--'  1  111  ~/src/components/AlertCard.jsx
-|4,39,1,111,1748479727,"~/src/components/AlertCard.jsx"
--'  1  111  ~/src/components/AlertCard.jsx
-|4,39,1,111,1748479727,"~/src/components/AlertCard.jsx"
--'  1  111  ~/src/components/AlertCard.jsx
-|4,39,1,111,1748479727,"~/src/components/AlertCard.jsx"
--'  1  111  ~/src/components/AlertCard.jsx
-|4,39,1,111,1748479727,"~/src/components/AlertCard.jsx"
--'  1  111  ~/src/components/AlertCard.jsx
-|4,39,1,111,1748479727,"~/src/components/AlertCard.jsx"
--'  1  111  ~/src/components/AlertCard.jsx
-|4,39,1,111,1748479727,"~/src/components/AlertCard.jsx"
--'  1  111  ~/src/components/AlertCard.jsx
-|4,39,1,111,1748479727,"~/src/components/AlertCard.jsx"
--'  1  111  ~/src/components/AlertCard.jsx
-|4,39,1,111,1748479727,"~/src/components/AlertCard.jsx"
--'  1  111  ~/src/components/AlertCard.jsx
-|4,39,1,111,1748479727,"~/src/components/AlertCard.jsx"
--'  1  111  ~/src/components/AlertCard.jsx
-|4,39,1,111,1748479727,"~/src/components/AlertCard.jsx"
--'  1  0  ~/src/data/AlertCard.jsx
-|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
--'  1  0  ~/src/data/AlertCard.jsx
-|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
--'  1  0  ~/src/data/AlertCard.jsx
-|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
--'  1  0  ~/src/data/AlertCard.jsx
-|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
--'  1  0  ~/src/data/AlertCard.jsx
-|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
--'  1  0  ~/src/data/AlertCard.jsx
-|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
--'  1  0  ~/src/data/AlertCard.jsx
-|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
--'  1  0  ~/src/data/AlertCard.jsx
-|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
--'  1  0  ~/src/data/AlertCard.jsx
-|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
--'  1  0  ~/src/data/AlertCard.jsx
-|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
--'  1  0  ~/src/data/AlertCard.jsx
-|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
--'  1  0  ~/src/data/AlertCard.jsx
-|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
--'  1  0  ~/src/data/AlertCard.jsx
-|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
--'  1  0  ~/src/data/AlertCard.jsx
-|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
--'  1  0  ~/src/data/AlertCard.jsx
-|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
--'  1  0  ~/src/data/AlertCard.jsx
-|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
--'  1  0  ~/src/data/AlertCard.jsx
-|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
--'  1  0  ~/src/data/AlertCard.jsx
-|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
--'  1  0  ~/src/data/AlertCard.jsx
-|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
--'  1  0  ~/src/data/AlertCard.jsx
-|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
--'  1  0  ~/src/data/AlertCard.jsx
-|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
--'  1  0  ~/src/data/AlertCard.jsx
-|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
--'  1  0  ~/src/data/AlertCard.jsx
-|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
--'  1  0  ~/src/data/AlertCard.jsx
-|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
--'  1  0  ~/src/data/AlertCard.jsx
-|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
--'  1  0  ~/src/data/AlertCard.jsx
-|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
--'  1  0  ~/src/data/AlertCard.jsx
-|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
--'  1  0  ~/src/data/AlertCard.jsx
-|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
--'  1  0  ~/src/data/AlertCard.jsx
-|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
--'  1  0  ~/src/data/AlertCard.jsx
-|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
--'  1  0  ~/src/data/AlertCard.jsx
-|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
--'  1  0  ~/src/data/AlertCard.jsx
-|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
--'  18  0  ~/src/data/awsMockData.json
-|4,39,18,0,1748479561,"~/src/data/awsMockData.json"
--'  18  0  ~/src/data/awsMockData.json
-|4,39,18,0,1748479561,"~/src/data/awsMockData.json"
--'  18  0  ~/src/data/awsMockData.json
-|4,39,18,0,1748479561,"~/src/data/awsMockData.json"
--'  18  0  ~/src/data/awsMockData.json
-|4,39,18,0,1748479561,"~/src/data/awsMockData.json"
--'  18  0  ~/src/data/awsMockData.json
-|4,39,18,0,1748479561,"~/src/data/awsMockData.json"
--'  18  0  ~/src/data/awsMockData.json
-|4,39,18,0,1748479561,"~/src/data/awsMockData.json"
 
 # History of marks within files (newest to oldest):
+
+> ~/src/index.jsx
+	*	1748481243	0
+	"	7	0
+	^	7	0
+	.	6	21
+	+	6	21
+
+> ~/public/index.html
+	*	1748481198	0
+	"	11	0
+	^	11	0
+	.	10	7
+	+	10	7
 
 > ~/webpack.config.js
 	*	1748480960	0
