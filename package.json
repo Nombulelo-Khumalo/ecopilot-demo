@@ -1,0 +1,24 @@
+{
+  "name": "ubuntu",
+  "version": "1.0.0",
+  "description": "**EcoPilot-Deom ReadMe**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nombulelo-Khumalo/ecopilot-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nombulelo-Khumalo/ecopilot-demo/issues"
+  },
+  "homepage": "https://github.com/Nombulelo-Khumalo/ecopilot-demo#readme",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
