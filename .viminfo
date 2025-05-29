@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1748479861,,"wq"
+|2,0,1748480962,,"wq"
 :q
 |2,0,1748479675,,"q"
 :x
@@ -29,36 +29,148 @@
 # Registers:
 
 # File marks:
-'0  53  17  ~/src/App.jsx
-|4,48,53,17,1748479861,"~/src/App.jsx"
-'1  28  23  ~/src/components/AlertCard.jsx
-|4,49,28,23,1748479775,"~/src/components/AlertCard.jsx"
-'2  1  0  ~/src/data/AlertCard.jsx
-|4,50,1,0,1748479675,"~/src/data/AlertCard.jsx"
-'3  18  0  ~/src/data/awsMockData.json
-|4,51,18,0,1748479561,"~/src/data/awsMockData.json"
-'4  22  23  ~/src/components/Dashboard.jsx
-|4,52,22,23,1748479419,"~/src/components/Dashboard.jsx"
-'5  1  0  ~/src/components/add
-|4,53,1,0,1748479214,"~/src/components/add"
-'6  14  22  ~/src/components/BotPanel.jsx
-|4,54,14,22,1748479176,"~/src/components/BotPanel.jsx"
-'7  15  3  ~/src/components/GreenOpScore.jsx
-|4,55,15,3,1748479030,"~/src/components/GreenOpScore.jsx"
-'8  1  111  ~/src/components/AlertCard.jsx
-|4,56,1,111,1748478728,"~/src/components/AlertCard.jsx"
-'9  8  0  ~/src/components/AlertCard.jsx
-|4,57,8,0,1748478728,"~/src/components/AlertCard.jsx"
+'0  36  0  ~/webpack.config.js
+|4,48,36,0,1748480962,"~/webpack.config.js"
+'1  8  2  ~/package.json
+|4,49,8,2,1748480894,"~/package.json"
+'2  4  0  ~/.babelrc
+|4,50,4,0,1748480771,"~/.babelrc"
+'3  53  17  ~/src/App.jsx
+|4,51,53,17,1748479861,"~/src/App.jsx"
+'4  28  23  ~/src/components/AlertCard.jsx
+|4,52,28,23,1748479775,"~/src/components/AlertCard.jsx"
+'5  1  0  ~/src/data/AlertCard.jsx
+|4,53,1,0,1748479675,"~/src/data/AlertCard.jsx"
+'6  18  0  ~/src/data/awsMockData.json
+|4,54,18,0,1748479561,"~/src/data/awsMockData.json"
+'7  22  23  ~/src/components/Dashboard.jsx
+|4,55,22,23,1748479419,"~/src/components/Dashboard.jsx"
+'8  1  0  ~/src/components/add
+|4,56,1,0,1748479214,"~/src/components/add"
+'9  14  22  ~/src/components/BotPanel.jsx
+|4,57,14,22,1748479176,"~/src/components/BotPanel.jsx"
 
 # Jumplist (newest first):
+-'  36  0  ~/webpack.config.js
+|4,39,36,0,1748480962,"~/webpack.config.js"
+-'  1  0  ~/webpack.config.js
+|4,39,1,0,1748480951,"~/webpack.config.js"
+-'  8  2  ~/package.json
+|4,39,8,2,1748480894,"~/package.json"
+-'  8  2  ~/package.json
+|4,39,8,2,1748480894,"~/package.json"
+-'  1  0  ~/package.json
+|4,39,1,0,1748480807,"~/package.json"
+-'  1  0  ~/package.json
+|4,39,1,0,1748480807,"~/package.json"
+-'  4  0  ~/.babelrc
+|4,39,4,0,1748480771,"~/.babelrc"
+-'  4  0  ~/.babelrc
+|4,39,4,0,1748480771,"~/.babelrc"
+-'  4  0  ~/.babelrc
+|4,39,4,0,1748480771,"~/.babelrc"
+-'  4  0  ~/.babelrc
+|4,39,4,0,1748480771,"~/.babelrc"
+-'  1  0  ~/.babelrc
+|4,39,1,0,1748480755,"~/.babelrc"
+-'  1  0  ~/.babelrc
+|4,39,1,0,1748480755,"~/.babelrc"
+-'  1  0  ~/.babelrc
+|4,39,1,0,1748480755,"~/.babelrc"
+-'  1  0  ~/.babelrc
+|4,39,1,0,1748480755,"~/.babelrc"
 -'  53  17  ~/src/App.jsx
 |4,39,53,17,1748479861,"~/src/App.jsx"
+-'  53  17  ~/src/App.jsx
+|4,39,53,17,1748479861,"~/src/App.jsx"
+-'  53  17  ~/src/App.jsx
+|4,39,53,17,1748479861,"~/src/App.jsx"
+-'  53  17  ~/src/App.jsx
+|4,39,53,17,1748479861,"~/src/App.jsx"
+-'  53  17  ~/src/App.jsx
+|4,39,53,17,1748479861,"~/src/App.jsx"
+-'  53  17  ~/src/App.jsx
+|4,39,53,17,1748479861,"~/src/App.jsx"
+-'  53  17  ~/src/App.jsx
+|4,39,53,17,1748479861,"~/src/App.jsx"
+-'  53  17  ~/src/App.jsx
+|4,39,53,17,1748479861,"~/src/App.jsx"
+-'  1  0  ~/src/App.jsx
+|4,39,1,0,1748479809,"~/src/App.jsx"
+-'  1  0  ~/src/App.jsx
+|4,39,1,0,1748479809,"~/src/App.jsx"
+-'  1  0  ~/src/App.jsx
+|4,39,1,0,1748479809,"~/src/App.jsx"
+-'  1  0  ~/src/App.jsx
+|4,39,1,0,1748479809,"~/src/App.jsx"
+-'  1  0  ~/src/App.jsx
+|4,39,1,0,1748479809,"~/src/App.jsx"
+-'  1  0  ~/src/App.jsx
+|4,39,1,0,1748479809,"~/src/App.jsx"
+-'  1  0  ~/src/App.jsx
+|4,39,1,0,1748479809,"~/src/App.jsx"
 -'  1  0  ~/src/App.jsx
 |4,39,1,0,1748479809,"~/src/App.jsx"
 -'  28  23  ~/src/components/AlertCard.jsx
 |4,39,28,23,1748479775,"~/src/components/AlertCard.jsx"
 -'  28  23  ~/src/components/AlertCard.jsx
 |4,39,28,23,1748479775,"~/src/components/AlertCard.jsx"
+-'  28  23  ~/src/components/AlertCard.jsx
+|4,39,28,23,1748479775,"~/src/components/AlertCard.jsx"
+-'  28  23  ~/src/components/AlertCard.jsx
+|4,39,28,23,1748479775,"~/src/components/AlertCard.jsx"
+-'  28  23  ~/src/components/AlertCard.jsx
+|4,39,28,23,1748479775,"~/src/components/AlertCard.jsx"
+-'  28  23  ~/src/components/AlertCard.jsx
+|4,39,28,23,1748479775,"~/src/components/AlertCard.jsx"
+-'  28  23  ~/src/components/AlertCard.jsx
+|4,39,28,23,1748479775,"~/src/components/AlertCard.jsx"
+-'  28  23  ~/src/components/AlertCard.jsx
+|4,39,28,23,1748479775,"~/src/components/AlertCard.jsx"
+-'  28  23  ~/src/components/AlertCard.jsx
+|4,39,28,23,1748479775,"~/src/components/AlertCard.jsx"
+-'  28  23  ~/src/components/AlertCard.jsx
+|4,39,28,23,1748479775,"~/src/components/AlertCard.jsx"
+-'  28  23  ~/src/components/AlertCard.jsx
+|4,39,28,23,1748479775,"~/src/components/AlertCard.jsx"
+-'  28  23  ~/src/components/AlertCard.jsx
+|4,39,28,23,1748479775,"~/src/components/AlertCard.jsx"
+-'  28  23  ~/src/components/AlertCard.jsx
+|4,39,28,23,1748479775,"~/src/components/AlertCard.jsx"
+-'  28  23  ~/src/components/AlertCard.jsx
+|4,39,28,23,1748479775,"~/src/components/AlertCard.jsx"
+-'  28  23  ~/src/components/AlertCard.jsx
+|4,39,28,23,1748479775,"~/src/components/AlertCard.jsx"
+-'  28  23  ~/src/components/AlertCard.jsx
+|4,39,28,23,1748479775,"~/src/components/AlertCard.jsx"
+-'  1  111  ~/src/components/AlertCard.jsx
+|4,39,1,111,1748479727,"~/src/components/AlertCard.jsx"
+-'  1  111  ~/src/components/AlertCard.jsx
+|4,39,1,111,1748479727,"~/src/components/AlertCard.jsx"
+-'  1  111  ~/src/components/AlertCard.jsx
+|4,39,1,111,1748479727,"~/src/components/AlertCard.jsx"
+-'  1  111  ~/src/components/AlertCard.jsx
+|4,39,1,111,1748479727,"~/src/components/AlertCard.jsx"
+-'  1  111  ~/src/components/AlertCard.jsx
+|4,39,1,111,1748479727,"~/src/components/AlertCard.jsx"
+-'  1  111  ~/src/components/AlertCard.jsx
+|4,39,1,111,1748479727,"~/src/components/AlertCard.jsx"
+-'  1  111  ~/src/components/AlertCard.jsx
+|4,39,1,111,1748479727,"~/src/components/AlertCard.jsx"
+-'  1  111  ~/src/components/AlertCard.jsx
+|4,39,1,111,1748479727,"~/src/components/AlertCard.jsx"
+-'  1  111  ~/src/components/AlertCard.jsx
+|4,39,1,111,1748479727,"~/src/components/AlertCard.jsx"
+-'  1  111  ~/src/components/AlertCard.jsx
+|4,39,1,111,1748479727,"~/src/components/AlertCard.jsx"
+-'  1  111  ~/src/components/AlertCard.jsx
+|4,39,1,111,1748479727,"~/src/components/AlertCard.jsx"
+-'  1  111  ~/src/components/AlertCard.jsx
+|4,39,1,111,1748479727,"~/src/components/AlertCard.jsx"
+-'  1  111  ~/src/components/AlertCard.jsx
+|4,39,1,111,1748479727,"~/src/components/AlertCard.jsx"
+-'  1  111  ~/src/components/AlertCard.jsx
+|4,39,1,111,1748479727,"~/src/components/AlertCard.jsx"
 -'  1  111  ~/src/components/AlertCard.jsx
 |4,39,1,111,1748479727,"~/src/components/AlertCard.jsx"
 -'  1  111  ~/src/components/AlertCard.jsx
@@ -71,6 +183,62 @@
 |4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
 -'  1  0  ~/src/data/AlertCard.jsx
 |4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
+-'  1  0  ~/src/data/AlertCard.jsx
+|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
+-'  1  0  ~/src/data/AlertCard.jsx
+|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
+-'  1  0  ~/src/data/AlertCard.jsx
+|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
+-'  1  0  ~/src/data/AlertCard.jsx
+|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
+-'  1  0  ~/src/data/AlertCard.jsx
+|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
+-'  1  0  ~/src/data/AlertCard.jsx
+|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
+-'  1  0  ~/src/data/AlertCard.jsx
+|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
+-'  1  0  ~/src/data/AlertCard.jsx
+|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
+-'  1  0  ~/src/data/AlertCard.jsx
+|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
+-'  1  0  ~/src/data/AlertCard.jsx
+|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
+-'  1  0  ~/src/data/AlertCard.jsx
+|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
+-'  1  0  ~/src/data/AlertCard.jsx
+|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
+-'  1  0  ~/src/data/AlertCard.jsx
+|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
+-'  1  0  ~/src/data/AlertCard.jsx
+|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
+-'  1  0  ~/src/data/AlertCard.jsx
+|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
+-'  1  0  ~/src/data/AlertCard.jsx
+|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
+-'  1  0  ~/src/data/AlertCard.jsx
+|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
+-'  1  0  ~/src/data/AlertCard.jsx
+|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
+-'  1  0  ~/src/data/AlertCard.jsx
+|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
+-'  1  0  ~/src/data/AlertCard.jsx
+|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
+-'  1  0  ~/src/data/AlertCard.jsx
+|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
+-'  1  0  ~/src/data/AlertCard.jsx
+|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
+-'  1  0  ~/src/data/AlertCard.jsx
+|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
+-'  1  0  ~/src/data/AlertCard.jsx
+|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
+-'  1  0  ~/src/data/AlertCard.jsx
+|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
+-'  1  0  ~/src/data/AlertCard.jsx
+|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
+-'  1  0  ~/src/data/AlertCard.jsx
+|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
+-'  1  0  ~/src/data/AlertCard.jsx
+|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
 -'  18  0  ~/src/data/awsMockData.json
 |4,39,18,0,1748479561,"~/src/data/awsMockData.json"
 -'  18  0  ~/src/data/awsMockData.json
@@ -83,176 +251,30 @@
 |4,39,18,0,1748479561,"~/src/data/awsMockData.json"
 -'  18  0  ~/src/data/awsMockData.json
 |4,39,18,0,1748479561,"~/src/data/awsMockData.json"
--'  18  0  ~/src/data/awsMockData.json
-|4,39,18,0,1748479561,"~/src/data/awsMockData.json"
--'  18  0  ~/src/data/awsMockData.json
-|4,39,18,0,1748479561,"~/src/data/awsMockData.json"
--'  1  0  ~/src/data/awsMockData.json
-|4,39,1,0,1748479540,"~/src/data/awsMockData.json"
--'  1  0  ~/src/data/awsMockData.json
-|4,39,1,0,1748479540,"~/src/data/awsMockData.json"
--'  1  0  ~/src/data/awsMockData.json
-|4,39,1,0,1748479540,"~/src/data/awsMockData.json"
--'  1  0  ~/src/data/awsMockData.json
-|4,39,1,0,1748479540,"~/src/data/awsMockData.json"
--'  1  0  ~/src/data/awsMockData.json
-|4,39,1,0,1748479540,"~/src/data/awsMockData.json"
--'  1  0  ~/src/data/awsMockData.json
-|4,39,1,0,1748479540,"~/src/data/awsMockData.json"
--'  1  0  ~/src/data/awsMockData.json
-|4,39,1,0,1748479540,"~/src/data/awsMockData.json"
--'  1  0  ~/src/data/awsMockData.json
-|4,39,1,0,1748479540,"~/src/data/awsMockData.json"
--'  22  23  ~/src/components/Dashboard.jsx
-|4,39,22,23,1748479419,"~/src/components/Dashboard.jsx"
--'  22  23  ~/src/components/Dashboard.jsx
-|4,39,22,23,1748479419,"~/src/components/Dashboard.jsx"
--'  22  23  ~/src/components/Dashboard.jsx
-|4,39,22,23,1748479419,"~/src/components/Dashboard.jsx"
--'  22  23  ~/src/components/Dashboard.jsx
-|4,39,22,23,1748479419,"~/src/components/Dashboard.jsx"
--'  22  23  ~/src/components/Dashboard.jsx
-|4,39,22,23,1748479419,"~/src/components/Dashboard.jsx"
--'  22  23  ~/src/components/Dashboard.jsx
-|4,39,22,23,1748479419,"~/src/components/Dashboard.jsx"
--'  22  23  ~/src/components/Dashboard.jsx
-|4,39,22,23,1748479419,"~/src/components/Dashboard.jsx"
--'  22  23  ~/src/components/Dashboard.jsx
-|4,39,22,23,1748479419,"~/src/components/Dashboard.jsx"
--'  22  23  ~/src/components/Dashboard.jsx
-|4,39,22,23,1748479419,"~/src/components/Dashboard.jsx"
--'  22  23  ~/src/components/Dashboard.jsx
-|4,39,22,23,1748479419,"~/src/components/Dashboard.jsx"
--'  22  23  ~/src/components/Dashboard.jsx
-|4,39,22,23,1748479419,"~/src/components/Dashboard.jsx"
--'  22  23  ~/src/components/Dashboard.jsx
-|4,39,22,23,1748479419,"~/src/components/Dashboard.jsx"
--'  22  23  ~/src/components/Dashboard.jsx
-|4,39,22,23,1748479419,"~/src/components/Dashboard.jsx"
--'  22  23  ~/src/components/Dashboard.jsx
-|4,39,22,23,1748479419,"~/src/components/Dashboard.jsx"
--'  22  23  ~/src/components/Dashboard.jsx
-|4,39,22,23,1748479419,"~/src/components/Dashboard.jsx"
--'  22  23  ~/src/components/Dashboard.jsx
-|4,39,22,23,1748479419,"~/src/components/Dashboard.jsx"
--'  1  0  ~/src/components/Dashboard.jsx
-|4,39,1,0,1748479393,"~/src/components/Dashboard.jsx"
--'  1  0  ~/src/components/Dashboard.jsx
-|4,39,1,0,1748479393,"~/src/components/Dashboard.jsx"
--'  1  0  ~/src/components/Dashboard.jsx
-|4,39,1,0,1748479393,"~/src/components/Dashboard.jsx"
--'  1  0  ~/src/components/Dashboard.jsx
-|4,39,1,0,1748479393,"~/src/components/Dashboard.jsx"
--'  1  0  ~/src/components/Dashboard.jsx
-|4,39,1,0,1748479393,"~/src/components/Dashboard.jsx"
--'  1  0  ~/src/components/Dashboard.jsx
-|4,39,1,0,1748479393,"~/src/components/Dashboard.jsx"
--'  1  0  ~/src/components/Dashboard.jsx
-|4,39,1,0,1748479393,"~/src/components/Dashboard.jsx"
--'  1  0  ~/src/components/Dashboard.jsx
-|4,39,1,0,1748479393,"~/src/components/Dashboard.jsx"
--'  1  0  ~/src/components/Dashboard.jsx
-|4,39,1,0,1748479393,"~/src/components/Dashboard.jsx"
--'  1  0  ~/src/components/Dashboard.jsx
-|4,39,1,0,1748479393,"~/src/components/Dashboard.jsx"
--'  1  0  ~/src/components/Dashboard.jsx
-|4,39,1,0,1748479393,"~/src/components/Dashboard.jsx"
--'  1  0  ~/src/components/Dashboard.jsx
-|4,39,1,0,1748479393,"~/src/components/Dashboard.jsx"
--'  1  0  ~/src/components/Dashboard.jsx
-|4,39,1,0,1748479393,"~/src/components/Dashboard.jsx"
--'  1  0  ~/src/components/Dashboard.jsx
-|4,39,1,0,1748479393,"~/src/components/Dashboard.jsx"
--'  1  0  ~/src/components/Dashboard.jsx
-|4,39,1,0,1748479393,"~/src/components/Dashboard.jsx"
--'  1  0  ~/src/components/Dashboard.jsx
-|4,39,1,0,1748479393,"~/src/components/Dashboard.jsx"
--'  1  0  ~/src/components/add
-|4,39,1,0,1748479214,"~/src/components/add"
--'  1  0  ~/src/components/add
-|4,39,1,0,1748479214,"~/src/components/add"
--'  1  0  ~/src/components/add
-|4,39,1,0,1748479214,"~/src/components/add"
--'  1  0  ~/src/components/add
-|4,39,1,0,1748479214,"~/src/components/add"
--'  1  0  ~/src/components/add
-|4,39,1,0,1748479214,"~/src/components/add"
--'  1  0  ~/src/components/add
-|4,39,1,0,1748479214,"~/src/components/add"
--'  1  0  ~/src/components/add
-|4,39,1,0,1748479214,"~/src/components/add"
--'  1  0  ~/src/components/add
-|4,39,1,0,1748479214,"~/src/components/add"
--'  1  0  ~/src/components/add
-|4,39,1,0,1748479214,"~/src/components/add"
--'  1  0  ~/src/components/add
-|4,39,1,0,1748479214,"~/src/components/add"
--'  1  0  ~/src/components/add
-|4,39,1,0,1748479214,"~/src/components/add"
--'  1  0  ~/src/components/add
-|4,39,1,0,1748479214,"~/src/components/add"
--'  1  0  ~/src/components/add
-|4,39,1,0,1748479214,"~/src/components/add"
--'  1  0  ~/src/components/add
-|4,39,1,0,1748479214,"~/src/components/add"
--'  1  0  ~/src/components/add
-|4,39,1,0,1748479214,"~/src/components/add"
--'  1  0  ~/src/components/add
-|4,39,1,0,1748479214,"~/src/components/add"
--'  1  0  ~/src/components/add
-|4,39,1,0,1748479214,"~/src/components/add"
--'  1  0  ~/src/components/add
-|4,39,1,0,1748479214,"~/src/components/add"
--'  1  0  ~/src/components/add
-|4,39,1,0,1748479214,"~/src/components/add"
--'  1  0  ~/src/components/add
-|4,39,1,0,1748479214,"~/src/components/add"
--'  1  0  ~/src/components/add
-|4,39,1,0,1748479214,"~/src/components/add"
--'  1  0  ~/src/components/add
-|4,39,1,0,1748479214,"~/src/components/add"
--'  1  0  ~/src/components/add
-|4,39,1,0,1748479214,"~/src/components/add"
--'  1  0  ~/src/components/add
-|4,39,1,0,1748479214,"~/src/components/add"
--'  1  0  ~/src/components/add
-|4,39,1,0,1748479214,"~/src/components/add"
--'  1  0  ~/src/components/add
-|4,39,1,0,1748479214,"~/src/components/add"
--'  1  0  ~/src/components/add
-|4,39,1,0,1748479214,"~/src/components/add"
--'  1  0  ~/src/components/add
-|4,39,1,0,1748479214,"~/src/components/add"
--'  1  0  ~/src/components/add
-|4,39,1,0,1748479214,"~/src/components/add"
--'  1  0  ~/src/components/add
-|4,39,1,0,1748479214,"~/src/components/add"
--'  1  0  ~/src/components/add
-|4,39,1,0,1748479214,"~/src/components/add"
--'  1  0  ~/src/components/add
-|4,39,1,0,1748479214,"~/src/components/add"
--'  14  22  ~/src/components/BotPanel.jsx
-|4,39,14,22,1748479176,"~/src/components/BotPanel.jsx"
--'  14  22  ~/src/components/BotPanel.jsx
-|4,39,14,22,1748479176,"~/src/components/BotPanel.jsx"
--'  14  22  ~/src/components/BotPanel.jsx
-|4,39,14,22,1748479176,"~/src/components/BotPanel.jsx"
--'  14  22  ~/src/components/BotPanel.jsx
-|4,39,14,22,1748479176,"~/src/components/BotPanel.jsx"
--'  14  22  ~/src/components/BotPanel.jsx
-|4,39,14,22,1748479176,"~/src/components/BotPanel.jsx"
--'  14  22  ~/src/components/BotPanel.jsx
-|4,39,14,22,1748479176,"~/src/components/BotPanel.jsx"
--'  14  22  ~/src/components/BotPanel.jsx
-|4,39,14,22,1748479176,"~/src/components/BotPanel.jsx"
--'  14  22  ~/src/components/BotPanel.jsx
-|4,39,14,22,1748479176,"~/src/components/BotPanel.jsx"
--'  14  22  ~/src/components/BotPanel.jsx
-|4,39,14,22,1748479176,"~/src/components/BotPanel.jsx"
--'  14  22  ~/src/components/BotPanel.jsx
-|4,39,14,22,1748479176,"~/src/components/BotPanel.jsx"
 
 # History of marks within files (newest to oldest):
+
+> ~/webpack.config.js
+	*	1748480960	0
+	"	36	0
+	^	36	0
+	.	35	2
+	+	35	2
+
+> ~/package.json
+	*	1748480890	0
+	"	8	2
+	^	8	3
+	.	8	3
+	+	9	3
+	+	8	3
+
+> ~/.babelrc
+	*	1748480766	0
+	"	4	0
+	^	4	0
+	.	3	1
+	+	3	1
 
 > ~/src/App.jsx
 	*	1748479857	0
