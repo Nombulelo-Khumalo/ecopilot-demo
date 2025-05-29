@@ -12,7 +12,11 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1748477765,,"wq"
+|2,0,1748479861,,"wq"
+:q
+|2,0,1748479675,,"q"
+:x
+|2,0,1748479200,,"x"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +29,281 @@
 # Registers:
 
 # File marks:
-'0  3  27  ~/README.md
-|4,48,3,27,1748477765,"~/README.md"
+'0  53  17  ~/src/App.jsx
+|4,48,53,17,1748479861,"~/src/App.jsx"
+'1  28  23  ~/src/components/AlertCard.jsx
+|4,49,28,23,1748479775,"~/src/components/AlertCard.jsx"
+'2  1  0  ~/src/data/AlertCard.jsx
+|4,50,1,0,1748479675,"~/src/data/AlertCard.jsx"
+'3  18  0  ~/src/data/awsMockData.json
+|4,51,18,0,1748479561,"~/src/data/awsMockData.json"
+'4  22  23  ~/src/components/Dashboard.jsx
+|4,52,22,23,1748479419,"~/src/components/Dashboard.jsx"
+'5  1  0  ~/src/components/add
+|4,53,1,0,1748479214,"~/src/components/add"
+'6  14  22  ~/src/components/BotPanel.jsx
+|4,54,14,22,1748479176,"~/src/components/BotPanel.jsx"
+'7  15  3  ~/src/components/GreenOpScore.jsx
+|4,55,15,3,1748479030,"~/src/components/GreenOpScore.jsx"
+'8  1  111  ~/src/components/AlertCard.jsx
+|4,56,1,111,1748478728,"~/src/components/AlertCard.jsx"
+'9  8  0  ~/src/components/AlertCard.jsx
+|4,57,8,0,1748478728,"~/src/components/AlertCard.jsx"
 
 # Jumplist (newest first):
--'  3  27  ~/README.md
-|4,39,3,27,1748477765,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1748477695,"~/README.md"
+-'  53  17  ~/src/App.jsx
+|4,39,53,17,1748479861,"~/src/App.jsx"
+-'  1  0  ~/src/App.jsx
+|4,39,1,0,1748479809,"~/src/App.jsx"
+-'  28  23  ~/src/components/AlertCard.jsx
+|4,39,28,23,1748479775,"~/src/components/AlertCard.jsx"
+-'  28  23  ~/src/components/AlertCard.jsx
+|4,39,28,23,1748479775,"~/src/components/AlertCard.jsx"
+-'  1  111  ~/src/components/AlertCard.jsx
+|4,39,1,111,1748479727,"~/src/components/AlertCard.jsx"
+-'  1  111  ~/src/components/AlertCard.jsx
+|4,39,1,111,1748479727,"~/src/components/AlertCard.jsx"
+-'  1  0  ~/src/data/AlertCard.jsx
+|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
+-'  1  0  ~/src/data/AlertCard.jsx
+|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
+-'  1  0  ~/src/data/AlertCard.jsx
+|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
+-'  1  0  ~/src/data/AlertCard.jsx
+|4,39,1,0,1748479675,"~/src/data/AlertCard.jsx"
+-'  18  0  ~/src/data/awsMockData.json
+|4,39,18,0,1748479561,"~/src/data/awsMockData.json"
+-'  18  0  ~/src/data/awsMockData.json
+|4,39,18,0,1748479561,"~/src/data/awsMockData.json"
+-'  18  0  ~/src/data/awsMockData.json
+|4,39,18,0,1748479561,"~/src/data/awsMockData.json"
+-'  18  0  ~/src/data/awsMockData.json
+|4,39,18,0,1748479561,"~/src/data/awsMockData.json"
+-'  18  0  ~/src/data/awsMockData.json
+|4,39,18,0,1748479561,"~/src/data/awsMockData.json"
+-'  18  0  ~/src/data/awsMockData.json
+|4,39,18,0,1748479561,"~/src/data/awsMockData.json"
+-'  18  0  ~/src/data/awsMockData.json
+|4,39,18,0,1748479561,"~/src/data/awsMockData.json"
+-'  18  0  ~/src/data/awsMockData.json
+|4,39,18,0,1748479561,"~/src/data/awsMockData.json"
+-'  1  0  ~/src/data/awsMockData.json
+|4,39,1,0,1748479540,"~/src/data/awsMockData.json"
+-'  1  0  ~/src/data/awsMockData.json
+|4,39,1,0,1748479540,"~/src/data/awsMockData.json"
+-'  1  0  ~/src/data/awsMockData.json
+|4,39,1,0,1748479540,"~/src/data/awsMockData.json"
+-'  1  0  ~/src/data/awsMockData.json
+|4,39,1,0,1748479540,"~/src/data/awsMockData.json"
+-'  1  0  ~/src/data/awsMockData.json
+|4,39,1,0,1748479540,"~/src/data/awsMockData.json"
+-'  1  0  ~/src/data/awsMockData.json
+|4,39,1,0,1748479540,"~/src/data/awsMockData.json"
+-'  1  0  ~/src/data/awsMockData.json
+|4,39,1,0,1748479540,"~/src/data/awsMockData.json"
+-'  1  0  ~/src/data/awsMockData.json
+|4,39,1,0,1748479540,"~/src/data/awsMockData.json"
+-'  22  23  ~/src/components/Dashboard.jsx
+|4,39,22,23,1748479419,"~/src/components/Dashboard.jsx"
+-'  22  23  ~/src/components/Dashboard.jsx
+|4,39,22,23,1748479419,"~/src/components/Dashboard.jsx"
+-'  22  23  ~/src/components/Dashboard.jsx
+|4,39,22,23,1748479419,"~/src/components/Dashboard.jsx"
+-'  22  23  ~/src/components/Dashboard.jsx
+|4,39,22,23,1748479419,"~/src/components/Dashboard.jsx"
+-'  22  23  ~/src/components/Dashboard.jsx
+|4,39,22,23,1748479419,"~/src/components/Dashboard.jsx"
+-'  22  23  ~/src/components/Dashboard.jsx
+|4,39,22,23,1748479419,"~/src/components/Dashboard.jsx"
+-'  22  23  ~/src/components/Dashboard.jsx
+|4,39,22,23,1748479419,"~/src/components/Dashboard.jsx"
+-'  22  23  ~/src/components/Dashboard.jsx
+|4,39,22,23,1748479419,"~/src/components/Dashboard.jsx"
+-'  22  23  ~/src/components/Dashboard.jsx
+|4,39,22,23,1748479419,"~/src/components/Dashboard.jsx"
+-'  22  23  ~/src/components/Dashboard.jsx
+|4,39,22,23,1748479419,"~/src/components/Dashboard.jsx"
+-'  22  23  ~/src/components/Dashboard.jsx
+|4,39,22,23,1748479419,"~/src/components/Dashboard.jsx"
+-'  22  23  ~/src/components/Dashboard.jsx
+|4,39,22,23,1748479419,"~/src/components/Dashboard.jsx"
+-'  22  23  ~/src/components/Dashboard.jsx
+|4,39,22,23,1748479419,"~/src/components/Dashboard.jsx"
+-'  22  23  ~/src/components/Dashboard.jsx
+|4,39,22,23,1748479419,"~/src/components/Dashboard.jsx"
+-'  22  23  ~/src/components/Dashboard.jsx
+|4,39,22,23,1748479419,"~/src/components/Dashboard.jsx"
+-'  22  23  ~/src/components/Dashboard.jsx
+|4,39,22,23,1748479419,"~/src/components/Dashboard.jsx"
+-'  1  0  ~/src/components/Dashboard.jsx
+|4,39,1,0,1748479393,"~/src/components/Dashboard.jsx"
+-'  1  0  ~/src/components/Dashboard.jsx
+|4,39,1,0,1748479393,"~/src/components/Dashboard.jsx"
+-'  1  0  ~/src/components/Dashboard.jsx
+|4,39,1,0,1748479393,"~/src/components/Dashboard.jsx"
+-'  1  0  ~/src/components/Dashboard.jsx
+|4,39,1,0,1748479393,"~/src/components/Dashboard.jsx"
+-'  1  0  ~/src/components/Dashboard.jsx
+|4,39,1,0,1748479393,"~/src/components/Dashboard.jsx"
+-'  1  0  ~/src/components/Dashboard.jsx
+|4,39,1,0,1748479393,"~/src/components/Dashboard.jsx"
+-'  1  0  ~/src/components/Dashboard.jsx
+|4,39,1,0,1748479393,"~/src/components/Dashboard.jsx"
+-'  1  0  ~/src/components/Dashboard.jsx
+|4,39,1,0,1748479393,"~/src/components/Dashboard.jsx"
+-'  1  0  ~/src/components/Dashboard.jsx
+|4,39,1,0,1748479393,"~/src/components/Dashboard.jsx"
+-'  1  0  ~/src/components/Dashboard.jsx
+|4,39,1,0,1748479393,"~/src/components/Dashboard.jsx"
+-'  1  0  ~/src/components/Dashboard.jsx
+|4,39,1,0,1748479393,"~/src/components/Dashboard.jsx"
+-'  1  0  ~/src/components/Dashboard.jsx
+|4,39,1,0,1748479393,"~/src/components/Dashboard.jsx"
+-'  1  0  ~/src/components/Dashboard.jsx
+|4,39,1,0,1748479393,"~/src/components/Dashboard.jsx"
+-'  1  0  ~/src/components/Dashboard.jsx
+|4,39,1,0,1748479393,"~/src/components/Dashboard.jsx"
+-'  1  0  ~/src/components/Dashboard.jsx
+|4,39,1,0,1748479393,"~/src/components/Dashboard.jsx"
+-'  1  0  ~/src/components/Dashboard.jsx
+|4,39,1,0,1748479393,"~/src/components/Dashboard.jsx"
+-'  1  0  ~/src/components/add
+|4,39,1,0,1748479214,"~/src/components/add"
+-'  1  0  ~/src/components/add
+|4,39,1,0,1748479214,"~/src/components/add"
+-'  1  0  ~/src/components/add
+|4,39,1,0,1748479214,"~/src/components/add"
+-'  1  0  ~/src/components/add
+|4,39,1,0,1748479214,"~/src/components/add"
+-'  1  0  ~/src/components/add
+|4,39,1,0,1748479214,"~/src/components/add"
+-'  1  0  ~/src/components/add
+|4,39,1,0,1748479214,"~/src/components/add"
+-'  1  0  ~/src/components/add
+|4,39,1,0,1748479214,"~/src/components/add"
+-'  1  0  ~/src/components/add
+|4,39,1,0,1748479214,"~/src/components/add"
+-'  1  0  ~/src/components/add
+|4,39,1,0,1748479214,"~/src/components/add"
+-'  1  0  ~/src/components/add
+|4,39,1,0,1748479214,"~/src/components/add"
+-'  1  0  ~/src/components/add
+|4,39,1,0,1748479214,"~/src/components/add"
+-'  1  0  ~/src/components/add
+|4,39,1,0,1748479214,"~/src/components/add"
+-'  1  0  ~/src/components/add
+|4,39,1,0,1748479214,"~/src/components/add"
+-'  1  0  ~/src/components/add
+|4,39,1,0,1748479214,"~/src/components/add"
+-'  1  0  ~/src/components/add
+|4,39,1,0,1748479214,"~/src/components/add"
+-'  1  0  ~/src/components/add
+|4,39,1,0,1748479214,"~/src/components/add"
+-'  1  0  ~/src/components/add
+|4,39,1,0,1748479214,"~/src/components/add"
+-'  1  0  ~/src/components/add
+|4,39,1,0,1748479214,"~/src/components/add"
+-'  1  0  ~/src/components/add
+|4,39,1,0,1748479214,"~/src/components/add"
+-'  1  0  ~/src/components/add
+|4,39,1,0,1748479214,"~/src/components/add"
+-'  1  0  ~/src/components/add
+|4,39,1,0,1748479214,"~/src/components/add"
+-'  1  0  ~/src/components/add
+|4,39,1,0,1748479214,"~/src/components/add"
+-'  1  0  ~/src/components/add
+|4,39,1,0,1748479214,"~/src/components/add"
+-'  1  0  ~/src/components/add
+|4,39,1,0,1748479214,"~/src/components/add"
+-'  1  0  ~/src/components/add
+|4,39,1,0,1748479214,"~/src/components/add"
+-'  1  0  ~/src/components/add
+|4,39,1,0,1748479214,"~/src/components/add"
+-'  1  0  ~/src/components/add
+|4,39,1,0,1748479214,"~/src/components/add"
+-'  1  0  ~/src/components/add
+|4,39,1,0,1748479214,"~/src/components/add"
+-'  1  0  ~/src/components/add
+|4,39,1,0,1748479214,"~/src/components/add"
+-'  1  0  ~/src/components/add
+|4,39,1,0,1748479214,"~/src/components/add"
+-'  1  0  ~/src/components/add
+|4,39,1,0,1748479214,"~/src/components/add"
+-'  1  0  ~/src/components/add
+|4,39,1,0,1748479214,"~/src/components/add"
+-'  14  22  ~/src/components/BotPanel.jsx
+|4,39,14,22,1748479176,"~/src/components/BotPanel.jsx"
+-'  14  22  ~/src/components/BotPanel.jsx
+|4,39,14,22,1748479176,"~/src/components/BotPanel.jsx"
+-'  14  22  ~/src/components/BotPanel.jsx
+|4,39,14,22,1748479176,"~/src/components/BotPanel.jsx"
+-'  14  22  ~/src/components/BotPanel.jsx
+|4,39,14,22,1748479176,"~/src/components/BotPanel.jsx"
+-'  14  22  ~/src/components/BotPanel.jsx
+|4,39,14,22,1748479176,"~/src/components/BotPanel.jsx"
+-'  14  22  ~/src/components/BotPanel.jsx
+|4,39,14,22,1748479176,"~/src/components/BotPanel.jsx"
+-'  14  22  ~/src/components/BotPanel.jsx
+|4,39,14,22,1748479176,"~/src/components/BotPanel.jsx"
+-'  14  22  ~/src/components/BotPanel.jsx
+|4,39,14,22,1748479176,"~/src/components/BotPanel.jsx"
+-'  14  22  ~/src/components/BotPanel.jsx
+|4,39,14,22,1748479176,"~/src/components/BotPanel.jsx"
+-'  14  22  ~/src/components/BotPanel.jsx
+|4,39,14,22,1748479176,"~/src/components/BotPanel.jsx"
 
 # History of marks within files (newest to oldest):
+
+> ~/src/App.jsx
+	*	1748479857	0
+	"	53	17
+	^	53	18
+	.	53	18
+	+	53	18
+
+> ~/src/components/AlertCard.jsx
+	*	1748479770	0
+	"	28	23
+	^	28	24
+	.	28	24
+	+	1	111
+	+	28	24
+
+> ~/src/data/AlertCard.jsx
+	*	1748479670	0
+	"	1	0
+
+> ~/src/data/awsMockData.json
+	*	1748479555	0
+	"	18	0
+	^	18	1
+	.	18	0
+	+	18	0
+
+> ~/src/components/Dashboard.jsx
+	*	1748479413	0
+	"	22	23
+	^	22	24
+	.	22	24
+	+	22	24
+
+> ~/src/components/add
+	*	1748479207	0
+	"	1	0
+
+> ~/src/components/BotPanel.jsx
+	*	1748479171	0
+	"	14	22
+	^	14	23
+	.	14	23
+	+	14	23
+
+> ~/src/components/GreenOpScore.jsx
+	*	1748479023	0
+	"	15	3
+	^	15	4
+	.	18	27
+	+	18	27
 
 > ~/README.md
 	*	1748477761	0
