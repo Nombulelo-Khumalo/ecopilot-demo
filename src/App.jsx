@@ -1,4 +1,9 @@
+// File: src/App.jsx
 import React, { useState, useEffect } from "react";
+import { AnimatePresence } from "framer-motion";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
+
 import AlertCard from "./components/AlertCard";
 import Dashboard from "./components/Dashboard";
 import BotPanel from "./components/BotPanel";
@@ -23,17 +28,19 @@ const App = () => {
 
   const handleAction = (action, resource) => {
     if (action === "approve") {
-      alert(`Action approved: ${resource} stopped.`);
-      setScore(prev => Math.min(100, prev + 10));
+      toast.success(`Action approved: ${resource} stopped.`);
+      setScore((prev) => Math.min(100, prev + 10));
     } else {
-      alert(`Action ignored for: ${resource}`);
+      toast.info(`Action ignored for: ${resource}`);
     }
-    setAlerts(prev => prev.filter(alert => alert.resource !== resource));
+    setAlerts((prev) => prev.filter((alert) => alert.resource !== resource));
   };
 
   return (
     <div className="min-h-screen bg-gray-100 p-6">
-      <h1 className="text-3xl font-bold mb-6 text-green-700">EcoPilot.AI Anomaly Dashboard</h1>
+      <h1 className="text-3xl font-bold mb-6 text-green-700">
+        EcoPilot.AI Anomaly Dashboard
+      </h1>
       <Dashboard data={chartData} />
       <GreenOpScore score={score} />
       {alerts.length > 0 && (
@@ -43,11 +50,15 @@ const App = () => {
           co2={alerts[0].co2}
         />
       )}
-      {alerts.map(alert => (
-        <AlertCard key={alert.id} {...alert} onAction={handleAction} />
-      ))}
+      <AnimatePresence>
+        {alerts.map((alert) => (
+          <AlertCard key={alert.id} {...alert} onAction={handleAction} />
+        ))}
+      </AnimatePresence>
+      <ToastContainer position="top-right" autoClose={3000} />
     </div>
   );
 };
 
-export default App
+export default App;
+
